@@ -1,0 +1,5 @@
+- [Home](/ "WhatsApp To Discord | A WhatsApp - Discord Bridge")
+- [Setup](setup.md "Setup | WhatsApp To Discord")
+- [Commands](commands.md "Commands | WhatsApp To Discord")
+- [FAQ](faq.md "FAQ | WhatsApp To Discord")
+- [Report an Issue](https://github.com/FKLC/WhatsAppToDiscord/issues/new/choose)
